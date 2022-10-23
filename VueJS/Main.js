@@ -9,8 +9,6 @@ import Search_page from './Search_page.js'
 import Detail_infor from './Detail_infor.js'
 
 import store from './Store.js'
-import iron from '../../../db/search_iron man.json' assert { type: 'json' }
-import tt from '../../../db/tt1375666.json' assert { type: 'json' }
 import Movie from './Movies.js'
 import Actor from './Actor.js'
 
