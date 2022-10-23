@@ -1,5 +1,4 @@
 import store from './Store.js'
-import intheater from '../../../db/InTheaters.json' assert { type: 'json' }
 import Movie from './Movies.js'
 
 const xhttp = await fetch("https://imdb-api.com/en/API/InTheaters/k_p8k5mqh2")
