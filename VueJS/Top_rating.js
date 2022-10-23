@@ -1,5 +1,4 @@
 import store from './Store.js'
-import TopRating from '../../../db/250movies.json' assert { type: 'json' }
 import Movie from './Movies.js'
 
 const xhttp = await fetch("https://imdb-api.com/en/API/Top250Movies/k_p8k5mqh2")
